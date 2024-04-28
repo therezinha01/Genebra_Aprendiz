@@ -42,7 +42,7 @@
         
         <img src="./img/foto1.jpg"></div>
 
-        <div class="center">
+        <div class="right">
             <img src="./img/foto2.jpg"></div>
             <img src="./img/foto3.jpg"></div>
 
@@ -73,7 +73,7 @@
     <main>
         <section>
             <h3>Sobre mim</h3>
-            <p> Sou Estudante e Aprendiz em desenvolver páginas em html e css para páginas na internet.</p>
+            <p> Sou Estudante e Aprendiz em desenvolver páginas em html e css para a internet.</p>
             
             <h4>Formação</h4>
             <p>Desenvolvedor Web front-end 1 HTML e CSS para páginas na internet.</p>
